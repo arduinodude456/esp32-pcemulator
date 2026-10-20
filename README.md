@@ -12,3 +12,4 @@ and many other stuff like FreeDOS, and every program that runs on 8086 arch.
 
 # To prove it
 See the Pictures in /picture
+![image of a cyd running windows setup](https://github.com/arduinodude456/esp32-pcemulator/blob/main/picture/IMG_20261020_161203635.jpg)
