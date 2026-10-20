@@ -13,3 +13,11 @@ and many other stuff like FreeDOS, and every program that runs on 8086 arch.
 # To prove it
 See the Pictures in /picture
 ![image of a cyd running windows setup](https://github.com/arduinodude456/esp32-pcemulator/blob/main/picture/IMG_20261020_161203635.jpg)
+
+## Example test
+The supplied file mindows.img 
+Load it into drive A:. Then click reset.
+The file contains MS-DOS 5 and a minimal version of Windows 3.0
+
+The Emulator also runs a full version but it is too big so I cant upload it :) 
+Just install MS Dos on hard drive and then windows.
