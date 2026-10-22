@@ -21,3 +21,6 @@ The file contains MS-DOS 5 and a minimal version of Windows 3.0
 
 The Emulator also runs a full version but it is too big so I cant upload it :) 
 Just install MS Dos on hard drive and then windows.
+
+# Coming soon...
+Support for EGA Color and Windows 3.0 with EGA colors; More RAM
